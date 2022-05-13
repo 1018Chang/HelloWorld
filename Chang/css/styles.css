@@ -1,0 +1,17 @@
+.navbar {
+      border: 1px solid #ccc;
+      border-width: 1px 0;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background-image: url(../images/ss.jpg);
+      font-weight: bold;
+}
+
+.bgimage {
+      background: url('../images/7.jpg');
+      background-position: center center;
+      background-size: cover;
+      height: 200px;
+}
